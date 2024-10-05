@@ -24,3 +24,4 @@ The primary source of data is a csv (comma separated value)
 SELECT * FROM TABLE
 WHERE CONDITION=TRUE
 ```
+
