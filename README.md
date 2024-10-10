@@ -6,7 +6,7 @@
  
  DATA SOURCES
  
- [TOOLS USED OVERVIEW](#TOOLS USED-OVERVIEW)
+ [TOOLS USED OVERVIEW](#TOOLS-USED-OVERVIEW)
 
 ### PROJECT TITLE
 ### ANALYTICAL TOOLS
@@ -37,3 +37,6 @@ WHERE CONDITION=TRUE
  |-------|----------|----------|
  |TABLE 1|TABLE 2|TABLE 3 |
 
+|number 1|number 2|number 3|
+|--------|--------|---------|
+|figure 1|figure 2|figure 3|
